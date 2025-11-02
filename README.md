@@ -2,7 +2,7 @@
 A vibrant, neon-themed quiz website built using HTML, CSS, and JavaScript. Users can choose from multiple quiz topics, earn coins for correct answers, and track their accumulated score with a live counter — all stored locally for persistence.
 
 🚀 Live Demo
-https://github.com/nithya-u5/Interactive-Quiz-App/
+https://nithya-u5.github.io/quiz-app/
 
 ✨ Features
 🎨 Futuristic UI with glowing gradients and hexagon backgrounds
